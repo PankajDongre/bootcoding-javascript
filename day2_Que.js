@@ -166,3 +166,4 @@ let i= `1 1 1 1 1
 // console.log(str.lastIndexOf('because')); // get a last 'b-because' index 47
 // console.log(str.substr(31,23)); //31 is index & how many char i have(23)
 // console.log(str.substring(31,54));// 1st 'b-31' & last 'b-47'+6=53
+
